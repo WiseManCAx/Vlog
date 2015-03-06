@@ -1,12 +1,13 @@
-Additional reading!
-Допълнителна литература!
+This is a series of tutorials on programming in PHP.
+I begin with the introduction of HTML5.
 
-0. Additional reading for HTML, CSS and PHP:
+
+1. Additional reading for HTML, CSS and PHP:
 - http://en.wikipedia.org/wiki/HTML
 - http://en.wikipedia.org/wiki/Cascading_Style_Sheets
 - http://en.wikipedia.org/wiki/PHP
 
-1. Additional reading for DTD (Document Type Declaration):
+2. Additional reading for DTD :: Document Type Declaration:
 - http://www.w3schools.com/tags/tag_DOCTYPE.asp
 
 Example:

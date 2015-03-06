@@ -1,13 +1,4 @@
-Additional reading!
-Допълнителна литература!
+Additional reading for comment in PHP code:
 
-0. Additional reading for HTML, CSS and PHP:
-- http://en.wikipedia.org/wiki/HTML
-- http://en.wikipedia.org/wiki/Cascading_Style_Sheets
-- http://en.wikipedia.org/wiki/PHP
-
-1. Additional reading for DTD (Document Type Declaration):
-- http://www.w3schools.com/tags/tag_DOCTYPE.asp
-
-Example:
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+1. http://stackoverflow.com/questions/15751294/how-to-comment-php-code
+2. http://php.net/manual/en/language.basic-syntax.comments.php

@@ -1,15 +1,54 @@
 <! DOCTYPE html>
 <html>
 
+<!-- Header :: Begin -->
+
+<!-- WiseMan CAx to text :: Begin -->
+<!--                                         
+       .   .   .             .   .                 ,--„ .   
+        \  |\  |             |\  |\                |    |\  
+         \ | \ | . .--. .-.  | \ | \   .--. .--.   |    | \ 
+          \|  \| | `--.(.-'  |  \|  \  |  | |  |   |    |––\  \/
+           '   '-`-`--'-`--'-'   '   '-'--\-'  `---`--“-'   '-/\.
+-->
+<!-- WiseMan CAx to text :: End -->
+
 <head>
-  <title>Lesson 1: My simple CMS with Basic skills</title>
+  <link href="./favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+<!-- CSS2 :: Begin -->
+  <link hreh="./css/reset.css" rel="stylesheet" type="text/css" />
+  <link hreh="./css/bootstrap.css" rel="stylesheet" type="text/css" />
+  <link hreh="./css/css.css" rel="stylesheet" type="text/css" />
+<!-- CSS2 :: End -->
+
+<!-- JavaScript :: Begin -->
+  <script type="text/JavaScript" language="javascript" scr="./js/menu.js"></script>
+  <script type="text/JavaScript" language="javascript" scr="./js/jquery.js"></script>
+<!-- JavaScript :: End -->
+
+<!-- MetaTags :: Begin -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="content-language" content="en-us, bg" />
+  <meta name="copyright" content="http://www.wisemancax.com" />
+  <meta name="description" content="Tutorials for PHP :: WiseMan CAx - Computer Aided eXchange (All purpose)" />
+  <meta name="keywords" content="cms, wisemancax, tutorial, php, mysql" />
+<!-- MetaTags :: End -->
+
+  <title>Lesson 2: My simple CMS with Basic skills</title>
+
 </head>
+<!-- Header :: End -->
 
 <body>
+<!-- Wrapper :: Begin -->
+<!-- Wrapper :: End -->
 
-  <h3>Hi! Wellcome to lesson One.</h3>
-  <h3>Web site: vBox - http://vbox7.com/play:48ae13cac7</h3>
-  <h3>Web site: youtube - https://www.youtube.com/watch?v=rAPEQvsLWgk&feature=youtu.be</h3>
+<!-- Body :: Begin -->
+
+  <h3>Hi! Wellcome to lesson Two.</h3>
+  <h3>Web site: vBox - http://vbox7.com/...</h3>
+  <h3>Web site: youtube - https://www.youtube.com/...</h3>
   
   <p>1. HTML 5 => Hypertext Markup Language 5</p>
   <p>2. CSS2 => Cascading Style Sheets, Level 2</p>
@@ -20,10 +59,14 @@
   <p>7. Good written and spoken English</p>
   <p>8. and More...</p>
 
-</body>
+<!-- Body :: End -->
 
-<footer>
+<!-- Footer :: Begin -->
+<div id="footer">
   <h3>Good bye and to see next meetings!</h3>
-</footer>
+</div>
+<!-- Footer :: End -->
+
+</body>
 
 </html>
