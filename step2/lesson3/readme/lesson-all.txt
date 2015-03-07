@@ -34,7 +34,7 @@ Additional reading for comment in PHP code:
 Lesson3:
 Additional reading for software architecture and directories in PHP code:
 
-0. 
+0. https://github.com/WiseManCAx/vlog/tree/0392281e6510612dea6433db28dc6a418bacf99e/step2/lesson3
 
 1. http://stackoverflow.com/questions/15751294/how-to-comment-php-code
 2. http://php.net/manual/en/language.basic-syntax.comments.php
