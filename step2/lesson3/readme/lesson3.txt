@@ -1,0 +1,4 @@
+Additional reading for software architecture and directories in PHP code:
+
+1. http://stackoverflow.com/questions/15751294/how-to-comment-php-code
+2. http://php.net/manual/en/language.basic-syntax.comments.php

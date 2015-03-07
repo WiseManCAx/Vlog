@@ -1,0 +1,40 @@
+This is a series of tutorials on programming in PHP.
+I begin with the introduction of HTML5.
+
+=============
+
+Lesson1:
+Additional reading for Structure of the HTML file:
+
+0. https://github.com/WiseManCAx/vlog/tree/master/step1/lesson1
+
+1. Additional reading for HTML, CSS and PHP:
+- http://en.wikipedia.org/wiki/HTML
+- http://en.wikipedia.org/wiki/Cascading_Style_Sheets
+- http://en.wikipedia.org/wiki/PHP
+
+2. Additional reading for DTD :: Document Type Declaration:
+- http://www.w3schools.com/tags/tag_DOCTYPE.asp
+
+Example:
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+=============
+
+Lesson2:
+Additional reading for comment in PHP code:
+
+0. https://github.com/WiseManCAx/vlog/tree/master/step2/lesson2
+
+1. http://stackoverflow.com/questions/15751294/how-to-comment-php-code
+2. http://php.net/manual/en/language.basic-syntax.comments.php
+
+=============
+
+Lesson3:
+Additional reading for software architecture and directories in PHP code:
+
+0. 
+
+1. http://stackoverflow.com/questions/15751294/how-to-comment-php-code
+2. http://php.net/manual/en/language.basic-syntax.comments.php
